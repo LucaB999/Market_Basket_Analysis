@@ -3,7 +3,7 @@ This project aims at performing a Market Basket Analysis on the MeDAL dataset, a
 available on Kaggle. 
 Strings, contained in the text column of the full-data.csv file in the dataset, are considered as baskets and words as items.
 
-Colab code can be found here.
+Colab code can be 
 
 
-
+here
